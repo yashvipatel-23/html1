@@ -1,0 +1,23 @@
+*{ 
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    dispaly: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(#0b7bbb);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    font-size: medium;
+    color: black;
+    text-transform: none;
+    letter-spacing: normal;
+    background-color: aliceblue;
+    box-sizing: content-box;
+}
